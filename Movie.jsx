@@ -1,4 +1,4 @@
-export default function Article() {
+export default function Movie() {
     return (
         <div class="movie_card" >
             <div class="info_section">

@@ -12,8 +12,8 @@
 - clean index.htm file ✅
 - create a root element ✅
 
-## Create Article Container
-- create the file of Article.jsx container ✅
+## Create Movie Container
+- create the file of Movie.jsx container ✅
 
 ## Create Main title Container
 - create the file of Headline.jsx container ✅
