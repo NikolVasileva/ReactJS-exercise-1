@@ -1,5 +1,6 @@
-import movie from "./model/movies.js"
+import movies from "./model/movies.js";
 import Headline from '../Headline.jsx'
+import Body from "../Body.jsx";
 import './App.css'
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
     <main>
       <Headline />
 
-      <Body movies={movie} />
+      <Body movies={movies} />
     </main>
   );
 }

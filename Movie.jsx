@@ -1,21 +1,22 @@
-export default function Movie() {
+export default function Movie(props) {
     return (
-        <div class="movie_card" >
-            <div class="info_section">
-                <div class="movie_header">
-                    <img class="locandina" src="https://movieplayer.net-cdn.it/t/images/2017/12/20/bright_jpg_191x283_crop_q85.jpg" />
-                    <h1>Bright</h1>
-                    <h4>2017, David Ayer</h4>
-                    <span class="minutes">117 min</span>
-                    <p class="type">Action, Crime, Fantasy</p>
+        <div className="movie_card" >
+            <div className="info_section">
+                <div className="movie_header">
+                    <img className="locandina" src={props.posterUrl} />
+                    <h1>{props.title}</h1>
+                    <h4>{props.year}, {props.director}</h4>
+                    <span className="minutes">{props.runtime} min</span>
+                    <p className="type">{Array.isArray(props.genres) ? props.genres.join(", ") : props.genres}</p>
+
                 </div>
-                <div class="movie_desc">
-                    <p class="text">
-                        Set in a world where fantasy creatures live side by side with humans. A human cop is forced to work with an Orc to find a weapon everyone is prepared to kill for.
+                <div className="movie_desc">
+                    <p className="text">
+                        {props.plot}
                     </p>
                 </div>
             </div>
-            <div class="blur_back bright_back"></div>
+            <div className="blur_back bright_back"></div>
         </div>
     );
 } 

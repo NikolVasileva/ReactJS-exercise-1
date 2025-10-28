@@ -55,3 +55,4 @@ export const movies = [
     "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDqif26isd2akLZ3dJbTQpvU4R3Foo29hzA&s"
   }
 ];
+export default movies;
