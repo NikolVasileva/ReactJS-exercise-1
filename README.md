@@ -1,2 +1,6 @@
-# ReactJS-exercise-1
-SoftUni ReactJS Course Exercise 1
+# ReactJS Exercise 1
+
+## Initial Setup
+- Run the React app creator -> "npm create vite ."  ✅
+- Select a Framework -> React  ✅
+- Select a variant -> Javascript  ✅
