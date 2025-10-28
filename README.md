@@ -4,3 +4,6 @@
 - Run the React app creator -> "npm create vite ."  ✅
 - Select a Framework -> React  ✅
 - Select a variant -> Javascript  ✅
+
+## Add resources
+- Add html & css and model files
