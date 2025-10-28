@@ -15,3 +15,7 @@
 ## Create Article Container
 - create the file of Article.jsx container ✅
 
+## Create Main title Container
+- create the file of Headline.jsx container ✅
+
+
