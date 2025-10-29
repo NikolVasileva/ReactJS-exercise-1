@@ -22,5 +22,10 @@
 ## Create Body Container
 - create Body.jsx file ✅
 
+----
+
+### Using technologies: <img src="https://bilginc.com/editorFiles/3147aa77.png" width="30" alt="ReactJS"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="20" alt="JavaScript"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="25" alt="HTML"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="20" alt="CSS">
+
+
 
 
