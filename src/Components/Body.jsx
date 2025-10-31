@@ -13,6 +13,7 @@ export default function Body({ movies }) {
           genres={m.genres}
           plot={m.plot}
           posterUrl={m.posterUrl}
+          background={m.background}
         />
       ))}
     </section>

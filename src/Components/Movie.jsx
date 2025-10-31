@@ -16,7 +16,7 @@ export default function Movie(props) {
                     </p>
                 </div>
             </div>
-            <div className="blur_back bright_back"></div>
+            <div className="blur_back bright_back"><img src={props.background} /></div>
         </div>
     );
 } 

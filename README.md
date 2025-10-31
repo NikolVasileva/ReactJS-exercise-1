@@ -13,13 +13,13 @@
 - create a root element ✅
 - index.html file -> "<script type="module" src="/src/main.jsx"></script>" ✅
 
-## Create Movie Container
-- create the file of Movie.jsx container ✅
+## Create Movie Component
+- create the file of Movie.jsx component ✅
 
-## Create Main title Container
-- create the file of Headline.jsx container ✅
+## Create Main title Component
+- create the file of Headline.jsx component ✅
 
-## Create Body Container
+## Create Body Component
 - create Body.jsx file ✅
 
 ----
